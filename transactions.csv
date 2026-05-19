@@ -1,0 +1,6 @@
+TransactionID,Customer,Amount,Category
+T101,Rahul,5000,Groceries
+T102,Priya,15000,Electronics
+T103,Amit,22000,Furniture
+T104,Sneha,8000,Clothing
+T105,Karan,12500,Travel
