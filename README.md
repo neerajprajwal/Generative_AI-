@@ -10,9 +10,9 @@ A domain-specific conversational chatbot that answers college-related queries us
 |-------|---------|
 | **Student** | Neeraj Prajwal B R |
 | **USN** | 1BY23AI092 |
-| **Subject** | Computer Vision (BAI505B) |
+| **Subject** | Generative AI Lab (BAI608A) |
 | **College** | BMS Institute of Technology & Management, Bengaluru |
-| **Academic Year** | 2025 – 26 (Odd Semester) |
+| **Academic Year** | 2025 – 26 (Even Semester) |
 
 ---
 
